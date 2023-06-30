@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tc-auth-lib
+  annotations:
+    github.com/project-slug: backstage-catalog-test/tc-auth-lib
+spec:
+  type: other
+  lifecycle: unknown
+  owner: jason-vu
